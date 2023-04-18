@@ -1,0 +1,21 @@
+{
+  "name": "brainshop",
+  "version": "0.10.0",
+  "description": "A simple module to interact with the Brainshop.ai API.",
+  "main": "./index.js",
+  "typings": "./index.d.ts",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.mjs"
+  },
+  "keywords": ["brainshop", "api", "ai", "brainshopai"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colderry/brainshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/colderry/brainshop/issues"
+  },
+  "author": "Colderry",
+  "license": "MIT"
+}
